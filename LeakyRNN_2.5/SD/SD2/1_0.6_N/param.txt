@@ -1,1 +1,0 @@
-{'n_item': 6, 'mixed_length': 2, 'trainset_ratio': (1.0, 0.6), 'repeat': False}
